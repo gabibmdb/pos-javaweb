@@ -23,10 +23,9 @@
         <io.springfox.version>2.9.2</io.springfox.version>
         <modelmapper.version>2.3.0</modelmapper.version>
 
-  <sonar.projectKey>gabibmdb_pos-javaweb4</sonar.projectKey>
-  <sonar.organization>gabibmdb</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>0093901cfe0fe98d31ed1a4f98c35ded99545868</sonar.login>
+  <sonar.projectKey>posjava</sonar.projectKey>
+  <sonar.host.url>http://localhost:9000</sonar.host.url>
+  <sonar.login>71dcdd177f1d5269ba08c48862b41ef918d89a82</sonar.login>
              
     </properties>
 
